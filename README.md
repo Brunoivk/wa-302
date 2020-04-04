@@ -1,1 +1,1 @@
-# wa-302
+Front-end kod za Web aplikacije
